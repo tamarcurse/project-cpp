@@ -1,0 +1,5 @@
+﻿  Simulatir.cpp
+C:\Users\HOME\Documents\irox\c++\lesson3\Simulatir.cpp(16,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\HOME\Documents\irox\c++\lesson3\Simulatir.cpp(16,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\HOME\Documents\irox\c++\lesson3\Simulatir.cpp(16,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  lesson3.vcxproj -> C:\Users\HOME\Documents\irox\c++\lesson3\Debug\lesson3.exe

@@ -1,0 +1,14 @@
+﻿  baseMessage.cpp
+  Buffer.cpp
+  Camera.cpp
+C:\Users\HOME\Documents\irox\c++\lesson3\Camera.cpp(34,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\HOME\Documents\irox\c++\lesson3\Camera.cpp(34,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\HOME\Documents\irox\c++\lesson3\Camera.cpp(34,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  DiscoverMessege.cpp
+  lesson3.cpp
+  Simulatir.cpp
+  Simulator.cpp
+  StatusMesseage.cpp
+  Generating Code...
+Camera.obj : error LNK2019: unresolved external symbol "public: unsigned char * __cdecl baseMessage::getMessageBuffer(void)" (?getMessageBuffer@baseMessage@@QEAAPEAEXZ) referenced in function "public: void __cdecl Camera::SendToBUffer(void)" (?SendToBUffer@Camera@@QEAAXXZ)
+C:\Users\HOME\Documents\irox\c++\lesson3\x64\Debug\lesson3.exe : fatal error LNK1120: 1 unresolved externals
