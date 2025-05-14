@@ -1,4 +1,4 @@
-#low-level system application
+# low-level system application
 This project is a low-level system application written in C, developed and tested on a Linux virtual machine. The application focuses on multi-threading, file handling, bitwise operations, and UDP-based communication, demonstrating strong command of systems programming concepts.
 
 Key Features
